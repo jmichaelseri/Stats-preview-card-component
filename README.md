@@ -17,6 +17,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ## Overview
 
+This challenge was not too challenging.
 ### The challenge
 
 Users should be able to:
@@ -35,12 +36,16 @@ Users should be able to:
 
 ## My process
 
+I started with the HTML markup trying to added classes to conform to the BEM methodology.
+
+I then set all the colors by created customer properties for the color theme of the card.
+
+Then I worked on the general layout for the mobile view of the card using flexbox.
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ### What I learned
@@ -55,5 +60,5 @@ Users should be able to:
 ## Author
 
 - Website - [Junior Michael Seri]()
-- Frontend Mentor - [@jmichaelseri](https://www.frontendmentor.io/profile/jmichaelseri
+- Frontend Mentor - [@jmichaelseri](https://www.frontendmentor.io/profile/jmichaelseri)
 - Twitter - [@spiritencoded](https://twitter.com/spiritencoded)
