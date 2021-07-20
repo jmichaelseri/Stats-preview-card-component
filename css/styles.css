@@ -34,20 +34,32 @@ body{
 
 main {
     background-color: var(--primary-main-background);
+    padding: 1rem;
 }
 
 article{
-    margin: 1rem;
     height: 100vh;
     background-color: var(--primary-card-background);
+    border-radius: 15px;
 }
 
 .image {
     width: 100%;
     max-width: 100%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
 }
 
-
+.main__desc {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    max-width: 70%;
+    margin: 0 auto;
+    padding-top:2rem;
+}
 
 .main__title {
     color: var(--heading-stats);
@@ -59,6 +71,7 @@ article{
 
 .main__text {
     color: var(--paragraph-color);
+    padding: 1.5rem;
 }
 
 .stat__number {
@@ -67,4 +80,15 @@ article{
 
 .stat__desc {
     color: var(--stat-headings-color);
+}
+
+.stat__section {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    text-align: center;
+}
+
+.stat__subsection {
+    padding: 1rem;
 }
