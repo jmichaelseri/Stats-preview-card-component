@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [Solution URL](https://jmichaelseri.github.io/Stats-preview-card-component/)
+- Live Site URL: [Live site URL](https://jmichaelseri.github.io/Stats-preview-card-component/)
 
 ## My process
 
